@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/extended-fields/!svn/ver/92/app/views/issues
+END
+_list.html.erb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/extended-fields/!svn/ver/69/app/views/issues/_list.html.erb.patch
+END
+_list.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/extended-fields/!svn/ver/92/app/views/issues/_list.html.erb
+END

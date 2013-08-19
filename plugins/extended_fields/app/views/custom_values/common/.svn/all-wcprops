@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/extended-fields/!svn/ver/72/app/views/custom_values/common
+END
+_project.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/extended-fields/!svn/ver/45/app/views/custom_values/common/_project.html.erb
+END
+_project.text.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/extended-fields/!svn/ver/72/app/views/custom_values/common/_project.text.erb
+END
+_link.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/extended-fields/!svn/ver/45/app/views/custom_values/common/_link.html.erb
+END
+_link.text.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/extended-fields/!svn/ver/72/app/views/custom_values/common/_link.text.erb
+END
+_wiki.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/extended-fields/!svn/ver/45/app/views/custom_values/common/_wiki.html.erb
+END
